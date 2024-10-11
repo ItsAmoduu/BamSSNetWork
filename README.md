@@ -1,6 +1,6 @@
 # 🇺🇸
 
-This repository contains the **SSNetWork_BAM.ps1** script, which leverages Windows' **Background Activity Moderation (BAM)** to identify and monitor any potentially suspicious `.exe` files running on your system. The script is designed to enhance your system's security by making it easier to spot unwanted background activity.
+This repository contains the **SSNetWork_BAM.ps1** script, which leverages Windows' **Background Activity Moderation (BAM)** to identify and monitor any potentially suspicious `.exe` files running on your system.
 
 ## 🚀 What is BAM?
 
@@ -50,7 +50,7 @@ Questo repository contiene lo script **SSNetWork_BAM.ps1**, che sfrutta la funzi
 
 ## 🚀 Cos'è BAM?
 
-**Background Activity Moderation (BAM)** è una funzione intelligente di Windows che gestisce automaticamente le attività in background quando non stai utilizzando attivamente il tuo computer. Puoi considerare BAM come un assistente personale che aiuta a mantenere prestazioni ottimali rallentando o sospendendo temporaneamente le attività meno critiche in esecuzione in background. 
+**Background Activity Moderation (BAM)** è una funzione intelligente di Windows che gestisce automaticamente le attività in background quando non stai utilizzando attivamente il tuo computer.
 
 L'obiettivo è semplice: **BAM assicura che il tuo computer rimanga veloce e reattivo quando ne hai bisogno**, gestendo contemporaneamente le attività meno importanti. In questo caso specifico, BAM viene utilizzato per identificare eventuali file `.exe` potenzialmente dannosi che potrebbero essere attivi in background senza il tuo consenso.
 
