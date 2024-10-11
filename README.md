@@ -1,3 +1,7 @@
+Ecco l'aggiornamento per il README.md con l'aggiunta riguardante il menù dei pulsanti:
+
+---
+
 # 🇺🇸
 
 This repository contains the **SSNetWork_BAM.ps1** script, which leverages Windows' **Background Activity Moderation (BAM)** to identify and monitor any potentially suspicious `.exe` files running on your system.
@@ -33,6 +37,9 @@ powershell -Command "Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass;
 - **Windows PowerShell** version 5.0 or higher.
 - An active internet connection to download the script from GitHub.
 - Administrator privileges (to run CMD or PowerShell as admin).
+
+## 📋 Using BAM
+When you click on a file within the BAM interface and press **OK**, a menu will appear with three buttons: **Copy Path**, **Info**, and **Cancel**. This allows for easy management and access to file details.
 
 ## 🔗 Join Us on Discord!
 If you have any questions, need support, or want to join our community, feel free to hop on our Discord server:
@@ -80,6 +87,9 @@ powershell -Command "Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass;
 - Connessione a Internet attiva per scaricare lo script da GitHub.
 - Privilegi di amministratore (per eseguire CMD o PowerShell come admin).
 
+## 📋 Utilizzo di BAM
+Quando fai clic su un file all'interno dell'interfaccia BAM e premi **OK**, apparirà un menù con tre pulsanti: **Copia percorso**, **Info** e **Annulla**. Questo consente una gestione e un'accesso facili ai dettagli dei file.
+
 ## 🔗 Unisciti a noi su Discord!
 Per qualsiasi domanda, supporto o per unirti alla nostra community, sentiti libero di visitare il nostro server Discord:
 [ScreenShareNetwork Discord](https://discord.gg/screensharenetwork)
@@ -94,3 +104,4 @@ Per qualsiasi domanda, supporto o per unirti alla nostra community, sentiti libe
 
 ![Immagine CMD](https://github.com/ItsAmoduu/BamSSNetWork/blob/main/Immagine%202024-10-11%20194714.png)
 ![Immagine BAM](https://github.com/ItsAmoduu/BamSSNetWork/blob/main/Immagine%202024-10-11%20194733.png)
+![Immagine File Details](https://github.com/ItsAmoduu/BamSSNetWork/blob/main/Immagine%202024-10-11%20200915.png)
