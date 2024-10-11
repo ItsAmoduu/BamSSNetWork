@@ -1,6 +1,6 @@
 # BamSSNetWork
 
-## 🚀 What is BAM?
+### 🚀 What is BAM?
 
 **Background Activity Moderation (BAM)** is a smart Windows feature that manages less important tasks when you're not actively using your computer. Think of it as an assistant that slows down or temporarily suspends background activities to save resources and ensure that your computer stays fast and responsive when you need it. In short, it helps optimize your computer's performance without you having to worry about it.
 
