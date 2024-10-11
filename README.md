@@ -92,5 +92,5 @@ Per qualsiasi domanda, supporto o per unirti alla nostra community, sentiti libe
 
 **Nota**: Questo script è progettato per il caso d'uso specifico di rilevamento di file `.exe` potenzialmente sospetti. Si prega di utilizzarlo in modo responsabile per salvaguardare l'integrità del sistema.
 
-![Immagine CMD]((https://github.com/ItsAmoduu/BamSSNetWork/blob/main/Immagine%202024-10-11%20194714.png))
+![Immagine CMD](https://github.com/ItsAmoduu/BamSSNetWork/blob/main/Immagine%202024-10-11%20194714.png)
 ![Immagine BAM](https://github.com/ItsAmoduu/BamSSNetWork/blob/main/Immagine%202024-10-11%20194733.png)
