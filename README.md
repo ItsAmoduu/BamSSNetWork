@@ -1,5 +1,4 @@
-```markdown
-# BamSSNetWork
+# 🇺🇸
 
 This repository contains the **SSNetWork_BAM.ps1** script, which leverages Windows' **Background Activity Moderation (BAM)** to identify and monitor any potentially suspicious `.exe` files running on your system. The script is designed to enhance your system's security by making it easier to spot unwanted background activity.
 
@@ -44,14 +43,11 @@ If you have any questions, need support, or want to join our community, feel fre
 - **README.md** written by **ItsAmoduu_YT**.
 
 ---
-
+```
 **Note**: This script is designed for the specific use case of detecting potentially suspicious `.exe` files. Please ensure you use it responsibly to safeguard your system's integrity.
 ```
 
-### Italian Version
-
-```markdown
-# BamSSNetWork
+# 🇮🇹
 
 Questo repository contiene lo script **SSNetWork_BAM.ps1**, che sfrutta la funzione di **Background Activity Moderation (BAM)** di Windows per individuare e monitorare eventuali file `.exe` sospetti in esecuzione sul tuo sistema. Lo script è progettato per migliorare la sicurezza del tuo computer, aiutandoti a identificare attività indesiderate in background.
 
