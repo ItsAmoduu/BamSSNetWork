@@ -6,7 +6,7 @@ This repository contains the **SSNetWork_BAM.ps1** script, which leverages Windo
 
 **Background Activity Moderation (BAM)** is a smart and resource-efficient Windows feature that automatically manages background tasks when you're not actively using your computer. Think of BAM as your personal assistant, helping to maintain optimal performance by temporarily slowing down or suspending non-critical activities running in the background. 
 
-The goal is simple: **BAM ensures your computer stays fast and responsive when you need it** while managing less important tasks in the background. In this specific use case, BAM is applied to identify any potentially malicious `.exe` files that may be operating in the background without your knowledge.
+This method is especially useful during check cheats (SS) where detecting suspicious software or hidden cheats is crucial to ensure fair play and system integrity.
 
 ## 🛠️ How to Use the Script
 
@@ -52,7 +52,7 @@ Questo repository contiene lo script **SSNetWork_BAM.ps1**, che sfrutta la funzi
 
 **Background Activity Moderation (BAM)** è una funzione intelligente di Windows che gestisce automaticamente le attività in background quando non stai utilizzando attivamente il tuo computer.
 
-L'obiettivo è semplice: **BAM assicura che il tuo computer rimanga veloce e reattivo quando ne hai bisogno**, gestendo contemporaneamente le attività meno importanti. In questo caso specifico, BAM viene utilizzato per identificare eventuali file `.exe` potenzialmente dannosi che potrebbero essere attivi in background senza il tuo consenso.
+Questo metodo è particolarmente utile nelle sessioni di controllo cheats (SS) dove è fondamentale verificare la presenza di software sospetti o cheat nascosti che potrebbero influire sulle prestazioni o violare le regole di gioco.
 
 ## 🛠️ Come utilizzare lo script
 
