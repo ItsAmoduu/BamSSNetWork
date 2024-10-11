@@ -91,4 +91,3 @@ Per qualsiasi domanda, supporto o per unirti alla nostra community, sentiti libe
 ---
 
 **Nota**: Questo script è progettato per il caso d'uso specifico di rilevamento di file `.exe` potenzialmente sospetti. Si prega di utilizzarlo in modo responsabile per salvaguardare l'integrità del sistema.
-```
