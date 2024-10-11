@@ -1,7 +1,3 @@
-Ecco l'aggiornamento per il README.md con l'aggiunta riguardante il menù dei pulsanti:
-
----
-
 # 🇺🇸
 
 This repository contains the **SSNetWork_BAM.ps1** script, which leverages Windows' **Background Activity Moderation (BAM)** to identify and monitor any potentially suspicious `.exe` files running on your system.
